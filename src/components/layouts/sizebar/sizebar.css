@@ -1,0 +1,20 @@
+.sizebar {
+    display: flex;
+    justify-content: space-between;
+}
+.sizebar-link{
+    font-size: 23px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+.bg-sizebar{
+    background-image: url(https://giadungviet.vn/wp-content/uploads/footer-background.jpg);
+
+}
+.link-sizebar{
+    color: #fff;
+}
+.sizebar-link :hover.link-sizebar{
+    color: red !important;
+    text-decoration: underline !important;
+}

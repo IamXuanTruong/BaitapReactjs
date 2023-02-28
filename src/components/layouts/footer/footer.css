@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.footer{
+    background-image: url(https://giadungviet.vn/wp-content/uploads/footer-background.jpg);
+    margin-top: 2px;
+    color: #fff;
+    padding: 15px;
+    
+}
+.footer-form{
+    width: 90%;
+    margin: 0 auto;
+}
+.icon-ft {
+    font-size: 25px;
+    padding-top: 10px;
+}
+
+.text-icon {
+    text-align: left;
+}
+.google{
+    width: 100%;
+    border-radius: 15px;
+    height: 160px;
+}
+.form-inline{
+    width: 100%;
+}
+.input-formm{
+    width: 100%;
+    padding: 7px;
+    margin: 5px 15px;
+    background-color: rgba(0, 0, 0, 0.2) !important;
+    border-radius: 20px !important;
+    border: 2px solid rgb(63, 138, 138) !important;
+}
+.button-form{
+    margin-top: 10px;
+    width: 30%;
+    padding: 5px;
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+    border: 2px solid darkcyan;
+}

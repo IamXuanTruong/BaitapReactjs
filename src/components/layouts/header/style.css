@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.header{
+    border-bottom: 1px solid rgb(204, 232, 189);
+    background-color: rgb(126 126 121 / 60%);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.anh{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+.em{
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.input-form{
+    border-radius: 5px;
+    border: 2px solid gray;
+    padding: 7px;
+    width: 500px;
+}
+.icon-search{
+    position: absolute;
+    top: 2px;
+    right: 2px;
+    border: 1px solid gainsboro;
+    padding: 10px;
+    background: rgb(245, 101, 108);
+}
+.cart-icon{
+    font-size: 30px;
+}
+.use-icon, .cart-icon{
+    font-size: 30px;
+    padding-left: 30px;
+    color: black;
+}
+.anh :hover i {
+    color: red !important;
+}
